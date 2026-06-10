@@ -7,6 +7,8 @@ const config = defineConfig({
 		sveltepress({
 			theme: defaultTheme({
 				discord: 'https://discord.gg/EaUpVM2fzu',
+				github: 'https://github.com/Astral-Studios/acerex-docs',
+				editLink: 'https://github.com/Astral-Studios/acerex-docs/edit/master/src/routes:route',
 				navbar: [
 					{
 						title: 'Home',
