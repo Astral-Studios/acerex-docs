@@ -1,7 +1,3 @@
----
-lastUpdate: June 9th, 2026 at 12:42:51
----
-
 # Welcome to AceRex Factions
 
 AceRex Factions is a competitive Minecraft survival server built around territory control, raiding, and faction warfare. Team up with friends, claim land, build your base, and fight for dominance. Or go solo and prove you don't need anyone.
