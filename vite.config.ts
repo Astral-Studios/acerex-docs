@@ -7,8 +7,8 @@ const config = defineConfig({
 		sveltepress({
 			theme: defaultTheme({
 				discord: 'https://discord.gg/EaUpVM2fzu',
-				github: 'https://github.com/Astral-Studios/acerex-docs',
-				editLink: 'https://github.com/Astral-Studios/acerex-docs/edit/master/src/routes:route',
+				github: 'https://github.com/The-AceRex-Group/acerex-docs',
+				editLink: 'https://github.com/The-AceRex-Group/acerex-docs/edit/master/src/routes:route',
 				docsearch : {
             		appId : 'W4VPW2FQ10',
           			apiKey : 'a1ae2f34bdbd9025568b705ce1fb1dfc',
