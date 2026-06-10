@@ -1,6 +1,5 @@
 ---
-title: AceRex Factions
-heroImage: /sveltepress@3x.png
+heroImage: /logo.png
 tagline: AceRex Factions is a Minecraft Server with custom factions, economy, and gameplay features.
 actions:
   - label: Get Started
