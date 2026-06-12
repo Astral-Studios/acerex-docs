@@ -23,7 +23,7 @@ const config = defineConfig({
 				sidebar: {
 					'/': [
 						{
-							title: 'Factions',
+							title: 'Acerex Factions',
 							collapsible: true,
 							items: [
 								{
@@ -32,15 +32,15 @@ const config = defineConfig({
 									items: [
 										{
 											title: 'Introduction',
-											to: '/getting-started/introduction/',
+											to: '/acerex-factions/getting-started/introduction/',
 										},
 										{
 											title: 'Rules',
-											to: '/getting-started/rules/',
+											to: '/acerex-factions/getting-started/rules/',
 										},
 										{
 											title: 'Commands',
-											to: '/getting-started/commands/',
+											to: '/acerex-factions/getting-started/commands/',
 										},
 									],
 								},
@@ -50,40 +50,40 @@ const config = defineConfig({
 									items: [
 										{
 											title: 'Day One',
-											to: '/gameplay/day-one/',
+											to: '/acerex-factions/gameplay/day-one/',
 										},
 										{
 											title: 'Creating a Faction',
-											to: '/gameplay/creating-a-faction/',
+											to: '/acerex-factions/gameplay/creating-a-faction/',
 										},
 										{
 											title: 'Faction Management',
-											to: '/gameplay/faction-management/',
+											to: '/acerex-factions/gameplay/faction-management/',
 										},
 										{
 											title: 'Relationships',
-											to: '/gameplay/relationships/',
+											to: '/acerex-factions/gameplay/relationships/',
 										},
 										{
 											title: 'Claiming Land',
-											to: '/gameplay/claiming-land/',
+											to: '/acerex-factions/gameplay/claiming-land/',
 										},
 										{
 											title: 'Power',
-											to: '/gameplay/power/',
+											to: '/acerex-factions/gameplay/power/',
 										},
 										{
 											title: 'Raiding',
-											to: '/gameplay/raiding/',
+											to: '/acerex-factions/gameplay/raiding/',
 										},
 										{
 											title: 'Cannoning',
-											to: '/gameplay/cannoning/',
+											to: '/acerex-factions/gameplay/cannoning/',
 										},
 										{
 											title: 'The Warzone',
-											to: '/gameplay/the-warzone/',
-										}
+											to: '/acerex-factions/gameplay/the-warzone/',
+										},
 									],
 								},
 								{
@@ -92,18 +92,18 @@ const config = defineConfig({
 									items: [
 										{
 											title: 'Shops',
-											to: '/economy/shops/',
+											to: '/acerex-factions/economy/shops/',
 										},
 										{
 											title: 'Auction House',
-											to: '/economy/auction-house/',
+											to: '/acerex-factions/economy/auction-house/',
 										},
 									],
 								},
 							],
 						},
 						{
-							title: 'Cobblecore',
+							title: 'Cobblecore Skyblock',
 							collapsible: true,
 							items: [
 								{
@@ -112,23 +112,7 @@ const config = defineConfig({
 									items: [
 										{
 											title: 'Introduction',
-											to: '/cobblecore/getting-started/introduction/',
-										},
-									],
-								},
-							],
-						},
-						{
-							title: 'Cresent Kingdom',
-							collapsible: true,
-							items: [
-								{
-									title: 'Getting Started',
-									collapsible: false,
-									items: [
-										{
-											title: 'Introduction',
-											to: '/cresent-kingdom/getting-started/introduction/',
+											to: '/cobblecore-skyblock/getting-started/introduction/',
 										},
 									],
 								},
@@ -139,7 +123,7 @@ const config = defineConfig({
 				logo: '/favicon.svg',
 			}),
 			siteConfig: {
-				title: 'AceRex Docs',
+				title: 'Acerex Docs',
 				description: 'Find guides, rules and more here.',
 			},
 		}),
