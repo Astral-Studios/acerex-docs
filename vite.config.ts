@@ -42,6 +42,10 @@ const config = defineConfig({
 											title: 'Commands',
 											to: '/acerex-factions/getting-started/commands/',
 										},
+										{
+											title: 'Changelog',
+											to: '/acerex-factions/getting-started/changelog/',
+										},
 									],
 								},
 								{
@@ -114,7 +118,29 @@ const config = defineConfig({
 											title: 'Introduction',
 											to: '/cobblecore-skyblock/getting-started/introduction/',
 										},
+										{
+											title: 'Rules',
+											to: '/cobblecore-skyblock/getting-started/rules/',
+										},
+										{
+											title: 'Commands',
+											to: '/cobblecore-skyblock/getting-started/commands/',
+										},
+										{
+											title: 'Changelog',
+											to: '/cobblecore-skyblock/getting-started/changelog/',
+										},
 									],
+								},
+								{
+									title: 'Gameplay',
+									collapsible: false,
+									items: [],
+								},
+								{
+									title: 'Economy',
+									collapsible: false,
+									items: [],
 								},
 							],
 						},
@@ -124,7 +150,7 @@ const config = defineConfig({
 			}),
 			siteConfig: {
 				title: 'Acerex Docs',
-				description: 'Find guides, rules and more here.',
+				description: 'Crafting the ultimate Minecraft experience, one server at a time.',
 			},
 		}),
 	],

@@ -1,7 +1,7 @@
 ---
 heroImage: /logo.png
-tagline: Crafting the ultimate Minecraft experience, one server at a time.
-actions:
+tagline: Your home base for everything Acerex, from rules to advanced guides, across all our servers.
+actions: 
   - label: Join our Discord
     type: secondary
     to: https://discord.gg/EaUpVM2fzu
@@ -16,17 +16,20 @@ actions:
     external: true
 ---
 
-<div class="flex flex-col sm:flex-row justify-center items-center gap-8 mt-10">
-  <a href="/acerex-factions/getting-started/introduction/" class="group relative w-[220px]">
-    <div class="bg-zinc-900 border border-zinc-700 rounded-xl">
-      <img src="/hcf.png" alt="HCF Server" class="w-[175px] mx-auto h-auto mb-3 transition-transform duration-300 group-hover:scale-115" />
-    </div>
-  </a>
-  <a href="cobblecore-skyblock/getting-started/introduction" class="group relative w-[220px]">
-    <div class="bg-zinc-900 border border-zinc-700 rounded-xl">
-      <img src="/cobblecore.png" alt="CobbleCore Server" class="w-[175px] mx-auto h-auto mb-3 transition-transform duration-300 group-hover:scale-115" />
-    </div>
-  </a>
+<div style="text-align: center; margin: 2.5rem 0;">
+  <p style="margin-bottom: 1.5rem;">Click a server below to explore its wiki</p>
+  <div style="display: inline-flex; gap: 2rem; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <a href="/acerex-factions/getting-started/introduction/" class="group relative w-[200px]">
+      <div class="bg-zinc-900 border border-zinc-700 rounded-xl">
+        <img src="/hcf.png" alt="HCF Server" style="height: 160px; width: auto;" class="mx-auto mb-3 transition-transform duration-300 group-hover:scale-115" />
+      </div>
+    </a>
+    <a href="/cobblecore-skyblock/getting-started/introduction/" class="group relative w-[200px]">
+      <div class="bg-zinc-900 border border-zinc-700 rounded-xl">
+        <img src="/cobblecore.png" alt="CobbleCore Server" style="height: 190px; width: auto;" class="mx-auto mb-3 transition-transform duration-300 group-hover:scale-115" />
+      </div>
+    </a>
+  </div>
 </div>
 
 <footer class="fixed bottom-0 left-0 w-full border-t border-zinc-800 bg-zinc-900 py-4 z-50">
