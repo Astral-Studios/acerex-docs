@@ -1,6 +1,6 @@
 ---
 heroImage: /logo.png
-tagline: 
+tagline: Crafting the ultimate Minecraft experience, one server at a time.
 actions:
   - label: Join our Discord
     type: secondary
