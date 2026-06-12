@@ -9,11 +9,11 @@ const config = defineConfig({
 				discord: 'https://discord.gg/EaUpVM2fzu',
 				github: 'https://github.com/The-AceRex-Group/acerex-docs',
 				editLink: 'https://github.com/The-AceRex-Group/acerex-docs/edit/master/src/routes:route',
-				docsearch : {
-            		appId : 'W4VPW2FQ10',
-          			apiKey : 'a1ae2f34bdbd9025568b705ce1fb1dfc',
-          			indexName : 'DocSearch',
-        		},
+				docsearch: {
+					appId: 'W4VPW2FQ10',
+					apiKey: 'a1ae2f34bdbd9025568b705ce1fb1dfc',
+					indexName: 'DocSearch',
+				},
 				navbar: [
 					{
 						title: 'Home',
@@ -23,72 +23,114 @@ const config = defineConfig({
 				sidebar: {
 					'/': [
 						{
-							title: 'Getting Started',
-							collapsible: false,
+							title: 'Factions',
+							collapsible: true,
 							items: [
 								{
-									title: 'Introduction',
-									to: '/getting-started/introduction/',
+									title: 'Getting Started',
+									collapsible: false,
+									items: [
+										{
+											title: 'Introduction',
+											to: '/getting-started/introduction/',
+										},
+										{
+											title: 'Rules',
+											to: '/getting-started/rules/',
+										},
+										{
+											title: 'Commands',
+											to: '/getting-started/commands/',
+										},
+									],
 								},
 								{
-									title: 'Rules',
-									to: '/getting-started/rules/',
+									title: 'Gameplay',
+									collapsible: false,
+									items: [
+										{
+											title: 'Day One',
+											to: '/gameplay/day-one/',
+										},
+										{
+											title: 'Creating a Faction',
+											to: '/gameplay/creating-a-faction/',
+										},
+										{
+											title: 'Faction Management',
+											to: '/gameplay/faction-management/',
+										},
+										{
+											title: 'Relationships',
+											to: '/gameplay/relationships/',
+										},
+										{
+											title: 'Claiming Land',
+											to: '/gameplay/claiming-land/',
+										},
+										{
+											title: 'Power',
+											to: '/gameplay/power/',
+										},
+										{
+											title: 'Raiding',
+											to: '/gameplay/raiding/',
+										},
+										{
+											title: 'Cannoning',
+											to: '/gameplay/cannoning/',
+										},
+										{
+											title: 'The Warzone',
+											to: '/gameplay/the-warzone/',
+										}
+									],
 								},
 								{
-									title: 'Commands',
-									to: '/getting-started/commands/',
+									title: 'Economy',
+									collapsible: false,
+									items: [
+										{
+											title: 'Shops',
+											to: '/economy/shops/',
+										},
+										{
+											title: 'Auction House',
+											to: '/economy/auction-house/',
+										},
+									],
 								},
 							],
 						},
 						{
-							title: 'Gameplay',
-							collapsible: false,
+							title: 'Cobblecore',
+							collapsible: true,
 							items: [
 								{
-									title: 'Day One',
-									to: '/gameplay/day-one/',
+									title: 'Getting Started',
+									collapsible: false,
+									items: [
+										{
+											title: 'Introduction',
+											to: '/cobblecore/getting-started/introduction/',
+										},
+									],
 								},
-								{
-									title: 'Creating a Faction',
-									to: '/gameplay/creating-a-faction/',
-								},
-								{
-									title: 'Faction Management',
-									to: '/gameplay/faction-management/',
-								},
-								{
-									title: 'Relationships',
-									to: '/gameplay/relationships/',
-								},
-								{
-									title: 'Claiming Land',
-									to: '/gameplay/claiming-land/',
-								},
-								{
-									title: 'Power',
-									to: '/gameplay/power/',
-								},
-								{
-									title: 'Raiding',
-									to: '/gameplay/raiding/',
-								},
-								{
-									title: 'The Warzone',
-									to: '/gameplay/the-warzone/',
-								}
 							],
 						},
 						{
-							title: 'Economy',
-							collapsible: false,
+							title: 'Cresent Kingdom',
+							collapsible: true,
 							items: [
 								{
-									title: 'Shops',
-									to: '/economy/shops/',
-								},
-								{
-									title: 'Auction House',
-									to: '/economy/auction-house/',
+									title: 'Getting Started',
+									collapsible: false,
+									items: [
+										{
+											title: 'Introduction',
+											to: '/cresent-kingdom/getting-started/introduction/',
+										},
+									],
 								},
 							],
 						},
@@ -97,7 +139,7 @@ const config = defineConfig({
 				logo: '/favicon.svg',
 			}),
 			siteConfig: {
-				title: 'AceRex Factions',
+				title: 'AceRex Docs',
 				description: 'Find guides, rules and more here.',
 			},
 		}),
