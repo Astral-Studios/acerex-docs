@@ -59,6 +59,7 @@ Dig the middle two blocks down one level. Place your lava on the left end and yo
 :::warning
 Don't let the lava and water touch directly or you'll get obsidian instead of cobblestone. If that happens, break it and try again with the correct spacing.
 :::
+
 Once your generator is running, mine cobblestone continuously. It's the foundation for expanding your island, building farms, and eventually trading for better materials.
 
 ---
@@ -67,13 +68,17 @@ Once your generator is running, mine cobblestone continuously. It's the foundati
 
 After your cobblestone generator is set up, your next priorities are:
 
-**Plant your tree** — Saplings from your starter tree give you wood, which unlocks crafting. Never chop a tree without replanting immediately. Running out of saplings this early is a painful mistake.
+- **Plant your tree** — Saplings from your starter tree give you wood, which unlocks crafting. Never chop a tree without replanting immediately. Running out of saplings this early is a painful mistake.
 
-**Build a dirt platform** — Use your starter dirt to extend the island and create space for crops. Even a small wheat or carrot farm dramatically changes your early food and income situation.
+- **Build a dirt platform** — Use your starter dirt to extend the island and create space for crops. Even a small wheat or carrot farm dramatically changes your early food and income situation.
 
-**Set up a mob farm** — A simple platform a few blocks above your island will spawn mobs at night that drop gunpowder, bones, arrows, and string. These are all tradeable or useful for progression.
+- **Set up a mob farm** — A simple platform a few blocks above your island will spawn mobs at night that drop gunpowder, bones, arrows, and string. These are all tradeable or useful for progression.
 
-**Expand outward** — Use cobblestone to steadily extend your island. More space means more room for farms, grinders, and spawners.
+- **Expand outward** — Use cobblestone to steadily extend your island. More space means more room for farms, grinders, and spawners.
+
+:::tip
+Build your platforms with cobblestone or wood slabs instead of full blocks. You get more building meterials, and mobs can't spawn on bottom slabs.
+:::
 
 ---
 
@@ -81,25 +86,25 @@ After your cobblestone generator is set up, your next priorities are:
 
 Resources are scarce in Skyblock, so trading and selling are central to progression. The in-game shop lets you buy and sell materials.
 
-- **`/shop`** — Browse the server shop to buy and sell items
-- **`/sell hand`** — Quickly sell whatever you're holding
-- **`/sell all`** — Sell everything sellable in your inventory at once
+- **`/shop`** — Browse the server shop to buy and sell items.
+- **`/sell hand`** — Quickly sell whatever you're holding.
+- **`/sell all`** — Sell everything sellable in your inventory at once. Be careful not to sell items you want to keep! 
 
 **Early income sources:**
-- Selling cobblestone, wood, and crops from your early farms
-- Killing mobs and selling their drops
-- Completing challenges and quests for cash rewards
-- Voting daily with `/vote` — free money and bonus items every single day with no risk
+- Selling cobblestone, wood, and crops from your early farms. 
+- Killing mobs and selling their drops. 
+- Completing challenges and quests for cash rewards. 
+- Voting daily with `/vote` — free money and bonus items every single day with no risk. 
 
-As you progress, spawners become the backbone of income. A well-set-up spawner farm — especially iron golems or higher-tier mobs — generates far more money than manual farming ever can.
+As you progress, spawners become the backbone of income. A well-set-up spawner farm, especially iron golems or higher-tier mobs, generates far more money than manual farming ever can.
 
 ---
 
 # Island Level & Island Top
 
-Your **island level** is a score calculated from the value of everything on your island — blocks placed, spawners set up, rare items added. You can check it with `/is level`.
+Your **island level** is a score calculated from the value of everything on your island, blocks placed, spawners set up, rare items added, ect. You can check it with `/is level`.
 
-**`/is top`** shows the leaderboard ranking all islands by value. This is the main competitive metric on the server — the higher your island's value, the higher you rank.
+**`/is top`** shows the leaderboard ranking all islands by value. This is the main competitive metric on the server, the higher your island's value, the higher you rank.
 
 Spawners and valuable blocks are the biggest contributors to island level. A single high-tier spawner can be worth more island value than thousands of cobblestone blocks.
 
@@ -130,8 +135,8 @@ For a full command reference, see the [Commands](commands) page.
 # Tips for New Players
 
 - **Don't fall off.** It sounds obvious but the void is instant death and you'll lose your inventory. Build barriers around the edges of your island early.
-- **Never leave lava unsecured.** A misplaced lava bucket can destroy your island. Always place lava carefully and have a water bucket ready.
-- **Vote every day.** `/vote` is free rewards for doing almost nothing — it adds up quickly over a season.
+- **Never leave lava unsecured.** A misplaced lava bucket can destroy your island. Always place lava carefully and have a water bucket ready. Fire Tick is on! 
+- **Vote every day.** `/vote` is free rewards for doing almost nothing, it adds up quickly over a season.
 - **Save your saplings.** Always replant trees immediately. Running out of wood on a Skyblock island is one of the most frustrating setbacks.
 - **Don't rush to expand.** A well-designed small island beats a messy large one. Plan your layout before laying down permanent structures.
 - **Teaming up helps.** A co-op partner can watch farms, split costs on spawners, and keep the island running while you're offline. Use `/is invite` to bring someone aboard.
@@ -141,8 +146,6 @@ For a full command reference, see the [Commands](commands) page.
 
 # Need Help?
 
-- Ask in-game using chat or `/msg <staffname>` to reach staff directly
-- Join our community at **[discord.gg/yourserver](https://discord.gg/yourserver)**
-- Browse this wiki using the sidebar for guides on specific topics
-
-*[Server Name] Skyblock Wiki — last updated June 2026*
+- Ask in-game using chat or the Discord Server.
+- Join our community at **[discord.gg/yourserver](https://discord.gg/cobblecore)**. 
+- Browse this wiki using the sidebar for guides on specific topics.
