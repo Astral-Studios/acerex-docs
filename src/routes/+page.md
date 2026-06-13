@@ -6,10 +6,6 @@ actions:
     type: secondary
     to: https://discord.gg/EaUpVM2fzu
     external: true
-  - label: Give Feedback
-    type: secondary
-    to: https://feedback.acerex.net
-    external: true
   - label: Contribute to the Wiki
     type: secondary
     to: https://github.com/The-AceRex-Group/acerex-docs
