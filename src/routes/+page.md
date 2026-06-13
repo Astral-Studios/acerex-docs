@@ -4,7 +4,7 @@ tagline: Your home base for everything Acerex, from rules to advanced guides, ac
 actions: 
   - label: Join our Discord
     type: secondary
-    to: https://discord.gg/EaUpVM2fzu
+    to: https://discord.gg/JQKxsR5qzd
     external: true
   - label: Contribute to the Wiki
     type: secondary

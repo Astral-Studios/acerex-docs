@@ -27,6 +27,20 @@ const config = defineConfig({
 							collapsible: true,
 							items: [
 								{
+									title: 'External Links',
+									collapsible: false,
+									items: [
+										{
+											title: 'Acerex Factions Discord',
+											to: 'https://discord.gg/EaUpVM2fzu',
+										},
+										{
+											title: 'Acerex Factions Website',
+											to: 'https://acerex.net',
+										},
+									],
+								},
+								{
 									title: 'Getting Started',
 									collapsible: false,
 									items: [
@@ -107,9 +121,23 @@ const config = defineConfig({
 							],
 						},
 						{
-							title: 'Cobblecore Skyblock',
+							title: 'Cobbleco.re Skyblock',
 							collapsible: true,
 							items: [
+								{
+									title: 'External Links',
+									collapsible: false,
+									items: [
+										{
+											title: 'Cobbleco.re Discord',
+											to: 'https://discord.gg/9K4v3up6GB',
+										},
+										{
+											title: 'Cobbleco.re Website',
+											to: 'https://cobbleco.re'
+										},
+									],
+								},
 								{
 									title: 'Getting Started',
 									collapsible: false,

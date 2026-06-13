@@ -1,8 +1,8 @@
 ---
-title: Welcome to CobbleCo.re Skyblock
+title: Welcome to Cobbleco.re Skyblock
 ---
 
-CobbleCo.re Skyblock combines a strong community atmosphere with competitive progression. Start with a small island and work your way to the top through strategy, grinding, trading, island upgrades and teamwork. Compete for leaderboard positions, build your island empire, and prove yourself against other players in a balanced economy designed for long-term progression. Whether you’re playing solo or alongside friends, every achievement brings you one step closer to becoming a legend of CobbleCo.re.
+Cobbleco.re Skyblock combines a strong community atmosphere with competitive progression. Start with a small island and work your way to the top through strategy, grinding, trading, island upgrades and teamwork. Compete for leaderboard positions, build your island empire, and prove yourself against other players in a balanced economy designed for long-term progression. Whether you’re playing solo or alongside friends, every achievement brings you one step closer to becoming a legend of Cobbleco.re.
 
 ---
 
@@ -20,7 +20,7 @@ Skyblock is not survival! There's no open world to explore. Falling off your isl
 
 # Joining the Server
 
-1. Launch Minecraft and add `[server.ip]` to your server list.
+1. Launch Minecraft and add `Cobbleco.re` to your server list.
 2. Connect and spawn at the main hub.
 3. Read the signs and holograms around spawn, they cover server-specific features and any active events.
 4. Type `/rules` before doing anything else.
@@ -147,5 +147,5 @@ For a full command reference, see the [Commands](commands) page.
 # Need Help?
 
 - Ask in-game using chat or the Discord Server.
-- Join our community at **[discord.gg/yourserver](https://discord.gg/cobblecore)**. 
+- Join our community at **[https://discord.gg/cobbleco.re](https://discord.gg/9K4v3up6GB)**. 
 - Browse this wiki using the sidebar for guides on specific topics.
